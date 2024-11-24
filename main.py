@@ -1,6 +1,6 @@
 #================================================================#
 #   Copyright (c)  DedSec Developers.                            #
-#   Licensed under the DedSec License, Version 1.0 (             #
+#   Licensed under the DedSec License, Version 1.0               #
 #================================================================#
 
 

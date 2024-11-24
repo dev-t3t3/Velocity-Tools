@@ -1,0 +1,10 @@
+requests
+pypresence
+fade
+datetime
+subprocess
+time
+json
+colorama
+socket
+threading
